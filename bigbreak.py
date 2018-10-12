@@ -106,7 +106,7 @@ class BigBreak():
                         print("\nYou hit them in the correct order!")
                         self.pot += 70
         else:
-            print("\nGame over! You won: £",str(self.pot))
+            print("\nGame over! You won: Â£",str(self.pot))
             exit()
             
         
